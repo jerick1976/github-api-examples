@@ -6,7 +6,7 @@ use File::Which;
 #
 #  GitHub Documentation this wrapper is based off of:
 #
-#  https://developer.github.com/v3/orgs/teams/#remove-team-member
+#  https://developer.github.com/v3/orgs/teams/#remove-team-membership
 #
 #  The intent of this script is to provide a simple example that
 #  spells out the variables needed to add a user to a team via the API,
